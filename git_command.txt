@@ -8,6 +8,11 @@ git remote set-url origin https://TOKEN@github.com/Bhaveshkahar268/GITHUB-FOR-DE
 git config --list
 git push origin master
 git push -u origin main
-git clone 
+git clone
 
 commit from github
+
+git reset --hard
+git pull orgin master
+git stash 
+git stash pop
