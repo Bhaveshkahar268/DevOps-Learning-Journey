@@ -1,7 +1,11 @@
-1. git init
-2. git add
-3. git rm --cached 
-4. git commit -m "   "
-5. git status
-6. git remote add origin https://TOKEN@github.com/Bhaveshkahar268/GITHUB-FOR-DEVOPS
-7. git config --list
+git init
+git add
+git rm --cached 
+git commit -m "   "
+git status
+git remote add origin https://TOKEN@github.com/Bhaveshkahar268/GITHUB-FOR-DEVOPS.git
+git remote set-url origin https://TOKEN@github.com/Bhaveshkahar268/GITHUB-FOR-DEVOPS.git
+git config --list
+git push origin master
+git push -u origin main
+git clone 
